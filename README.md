@@ -1,4 +1,4 @@
-# GeoKAN: Geometric Kolmogorov–Arnold Networks
+# GeoKAN: Geometric Kolmogorov–Arnold Networks ([https://arxiv.org/abs/2605.06740](https://arxiv.org/abs/2605.06740))
 
 We introduce **Geometric Kolmogorov–Arnold Networks (GeoKANs)**, a family of geometry-aware KAN-type models in which approximation is carried out in learned, geometry-adapted coordinates rather than in fixed Euclidean input coordinates.
 
