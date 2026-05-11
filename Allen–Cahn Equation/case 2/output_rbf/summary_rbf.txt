@@ -1,0 +1,7 @@
+Allen-Cahn case2 comparison summary
+PIKAN parameter count: 700
+LM-KAN parameter count: 700
+PIKAN metrics: {'mse': 0.008385502733290195, 'mae': 0.03320227190852165, 'rel_l2': 0.13174978018974293, 'best_loss': 0.07367102056741714, 'train_time_sec': 1281.3130509853363, 'residual_mse': 0.36303016543388367, 'num_parameters': 700}
+LM-KAN metrics: {'mse': 0.01863222010433674, 'mae': 0.022708889096975327, 'rel_l2': 0.19638922551050034, 'best_loss': 0.07651139669804342, 'train_time_sec': 4759.978725194931, 'residual_mse': 0.0014916425570845604, 'num_parameters': 700}
+LM-KAN basis: rbf
+Saved outputs in: /home/abhijitsen/Desktop/Bikram_expt/Geo_KAN_bkp/allen_cohen/output_compare_ac2_v3_3
