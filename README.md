@@ -20,3 +20,17 @@ Within this framework, we develop three main variants:
 The implementation for GeoKAN is available at: [https://github.com/AI-and-Quantum-Computing/GeoKAN](https://github.com/AI-and-Quantum-Computing/GeoKAN).
 
 The proposed model was implemented and evaluated on a Linux-based system (6.8.0-57-generic) powered by a 56-core x86\_64 CPU (112 logical processors) and 754.53 GB of system memory.
+
+## Citation
+If you find GeoKAN useful in your research, please cite our work using the following format:
+
+
+@misc{geokan_2026,
+      title={Geometric Kolmogorov--Arnold Network (GeoKAN)}, 
+      author={Abhijit Sen and Bikram Keshari Parida and Giridas Maiti and Mahima Arya and Denys I. Bondar},
+      year={2026},
+      eprint={2605.06740},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.06740}, 
+}
