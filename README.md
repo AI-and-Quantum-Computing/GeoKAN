@@ -24,7 +24,7 @@ The proposed model was implemented and evaluated on a Linux-based system (6.8.0-
 ## Citation
 If you find GeoKAN useful in your research, please cite our work using the following format:
 
-
+```bibtex
 @misc{geokan_2026,
       title={Geometric Kolmogorov--Arnold Network (GeoKAN)}, 
       author={Abhijit Sen and Bikram Keshari Parida and Giridas Maiti and Mahima Arya and Denys I. Bondar},
