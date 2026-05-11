@@ -17,4 +17,6 @@ Within this framework, we develop three main variants:
     * **LM-KAN-Fourier**: Using Fourier bases.
 
 ## Code
-The implementation for GeoKAN is available at: [https://github.com/AI-and-Quantum-Computing/GeoKAN](https://github.com/AI-and-Quantum-Computing/GeoKAN)
+The implementation for GeoKAN is available at: [https://github.com/AI-and-Quantum-Computing/GeoKAN](https://github.com/AI-and-Quantum-Computing/GeoKAN).
+
+The proposed model was implemented and evaluated on a Linux-based system (6.8.0-57-generic) powered by a 56-core x86\_64 CPU (112 logical processors) and 754.53 GB of system memory.
