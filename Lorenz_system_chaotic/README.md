@@ -97,11 +97,10 @@ Lorenz_system_chaotic/
 │   ├── pointwise_error_v4.png
 │   ├── parameter_scaling_progression_v4.pdf
 │   └── parameter_scaling_progression_v4.png
-├── lm_kan.py                  # Untouched native module
-├── wavekan.py                 # Untouched native module
-├── efficientkan.py            # Untouched native module
-├── train_chaotic_v4.py        # 10,000-epoch benchmark training pipeline
-├── create_notebook_v4.py      # Notebook compilation script
-├── chaotic_lorenz_v4.ipynb    # Executed self-contained Jupyter notebook
+├── lm_kan.py                  
+├── wavekan.py                 
+├── efficientkan.py            
+├── train_chaotic.py        # 10,000-epoch benchmark training pipeline
+├── chaotic_lorenz.ipynb    # Executed self-contained Jupyter notebook
 └── README.md                  # Comprehensive benchmark documentation
 ```
